@@ -74,12 +74,15 @@ body{
 }
 .contact{
     width: 50%;
-    float: right;
+    float: left;
     background-color: yellowgreen;
-    border: 2px solid yellow;
+    border: 2px solid rgb(224, 224, 223);
     color: black;
     padding:5px;
 }
 #contact h2{
     text-align: center;
+}
+.technical{
+    margin-top: 10px;
 }
