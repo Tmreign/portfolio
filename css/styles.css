@@ -4,7 +4,7 @@
     right: 16px;
     border-radius: 25px;
     border: 5px solid whitesmoke;
-    padding: 7px;
+    padding: 6px;
 }
 .name{
     position: absolute;
@@ -57,4 +57,13 @@ body{
 
 .bar blue round-large{
     background-color: white;
+}
+
+#about{
+
+
+}
+.progress{
+    display: flex;
+    flex-direction: row;
 }
