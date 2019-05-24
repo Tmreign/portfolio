@@ -58,12 +58,16 @@ body{
 .bar blue round-large{
     background-color: white;
 }
-
-#about{
-
-
-}
 .progress{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+    margin: 2%;
+}
+
+#about{
+    text-align: center;
+}
+.about{
+    width: 600px;
+    float:left;
 }
