@@ -64,10 +64,22 @@ body{
     margin: 2%;
 }
 
-#about{
+#about h2{
     text-align: center;
 }
 .about{
     width: 600px;
     float:left;
+    padding: 12px;
+}
+.contact{
+    width: 50%;
+    float: right;
+    background-color: yellowgreen;
+    border: 2px solid yellow;
+    color: black;
+    padding:5px;
+}
+#contact h2{
+    text-align: center;
 }
