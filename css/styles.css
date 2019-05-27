@@ -76,9 +76,9 @@ body{
 .contact{
     width: 50%;
     float: left;
-    background-color: yellowgreen;
+    background-color: rgb(66, 68, 62);
     border: 2px solid rgb(224, 224, 223);
-    color: black;
+    color: rgb(250, 250, 250);
     padding:5px;
 }
 
@@ -96,6 +96,6 @@ body{
     padding: 3px;
 }
 #contact{
-    margin-top: 10%;
+    margin-top: 40%;
     margin-bottom: 4%;
 }
