@@ -1,15 +1,11 @@
-*{
-    margin: 0;
-    padding: 0;
-}
-
-
 
 .profile{
     position: absolute;
-    top: 25px;
+    top: 27px;
     right: 16px;
-    background-color: yellowgreen;
+    
+    border: 5px solid whitesmoke;
+    padding: 3px;
 }
 .name{
     position: absolute;
@@ -62,4 +58,40 @@ body{
 
 .bar blue round-large{
     background-color: white;
+}
+.progress{
+    display: flex;
+    flex-direction: column;
+    margin: 2%;
+}
+
+#about h2{
+    text-align: center;
+}
+.about{
+    width: 600px;
+    float:left;
+    padding: 12px;
+}
+.contact{
+    width: 50%;
+    float: left;
+    background-color: yellowgreen;
+    border: 2px solid rgb(224, 224, 223);
+    color: black;
+    padding:5px;
+}
+
+    
+#about{
+    border: 2px solid wheat;
+}
+
+.top{
+    background: linear-gradient(to bottom right, red, yellow); 
+}
+
+.head a{
+    border: 1px solid white;
+    padding: 3px;
 }
