@@ -23,7 +23,7 @@
     right: 50%;
     transform: translate(-50%, -50%);
     font-size: 40px;
-    color: aliceblue;
+    color: rgb(54, 57, 59);
 }
 .head{
     position: absolute;
