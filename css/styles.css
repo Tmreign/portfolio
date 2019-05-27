@@ -56,6 +56,7 @@ body{
     color: rgb(231, 209, 9);
     font-size: 30px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 200;
 }
 
 .bar blue round-large{
@@ -104,4 +105,8 @@ body{
 .technical{
     margin-top: 8%;
     margin-bottom: 5%;
+}
+
+#services h2{
+    text-decoration: antiquewhite;
 }
