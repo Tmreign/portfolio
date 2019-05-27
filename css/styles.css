@@ -54,6 +54,8 @@ body{
 }
 .head a{
     color: rgb(231, 209, 9);
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .bar blue round-large{
