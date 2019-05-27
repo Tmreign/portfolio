@@ -23,13 +23,13 @@
     right: 50%;
     transform: translate(-50%, -50%);
     font-size: 40px;
-    color: rgb(54, 57, 59);
+    color: rgb(231, 209, 9);
 }
 .head{
     position: absolute;
     top: 40px;
-    left: 76px;
-    color:yellowgreen;
+    right: 456px;
+    color: rgb(231, 209, 9);
 }
 .progress{
     width: 350px;
@@ -53,7 +53,7 @@ body{
     color:whitesmoke;
 }
 .head a{
-    color:black;
+    color: rgb(231, 209, 9);
 }
 
 .bar blue round-large{
